@@ -41,6 +41,8 @@ Bu proje, öğrenciler ve akademisyenler arasında randevu oluşturma, mesajlaş
 - **Derlenmiş Sınıflar:** `.class` dosyaları (`/bin` dizininde)  
 - **IDE:** Eclipse, IntelliJ IDEA veya NetBeans  
 - **Mimari:** MVC’ye yakın yapılandırma (arayüz – veritabanı ayrımı)
+
+<!-- 
 <img height="300" alt="Screenshot 2025-06-26 at 14 29 35" src="https://github.com/user-attachments/assets/f16a9590-38c6-47a5-a82f-3227d72bdbc5" />
 <img height="300" alt="Screenshot 2025-06-26 at 14 29 47" src="https://github.com/user-attachments/assets/9f8005fb-150a-4728-8f48-ec1fcb565e25" />
 <img height="300" alt="Screenshot 2025-06-26 at 14 31 44" src="https://github.com/user-attachments/assets/ddb335a7-2af1-4451-b585-f8c143cc30d5" />
@@ -52,6 +54,7 @@ Bu proje, öğrenciler ve akademisyenler arasında randevu oluşturma, mesajlaş
 <img height="300" alt="Screenshot 2025-06-26 at 14 33 15" src="https://github.com/user-attachments/assets/1ae34018-08e1-4d13-88de-0fdd0733ebdb" />
 <img height="300" alt="Screenshot 2025-06-26 at 14 33 54" src="https://github.com/user-attachments/assets/51debd0d-efcf-48bc-81b8-a7ed08e9d560" />
 <img height="300" alt="Screenshot 2025-06-26 at 14 34 14" src="https://github.com/user-attachments/assets/02a8ad46-195d-4af2-bfaa-0cbe7968a0ae" />
+-->
 
 
 
